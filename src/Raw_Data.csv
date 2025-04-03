@@ -1,0 +1,480 @@
+﻿OrderID,SalesDate,Customer,CustomerName,City,State,PostalCode,Product,Categories,ProductName,Sales
+CA-2017-152156,11/8/2017,CG-12520,Claire Gute,Henderson,Kentucky,42420,FUR-BO-10001798,Furniture,Bush Somerset Collection Bookcase,320.00
+CA-2017-138688,6/12/2017,DV-13045,Darrin Van Huff,Los Angeles,California,90036,OFF-LA-10000240,Office Supplies,Self-Adhesive Address Labels for Typewriters by Universal,516.00
+US-2016-108966,10/11/2016,SO-20335,Sean O'Donnell,Fort Lauderdale,Florida,33311,FUR-TA-10000577,Furniture,Bretford CR4500 Series Slim Rectangular Table,116.00
+CA-2015-115812,6/9/2015,BH-11710,Brosina Hoffman,Los Angeles,California,90032,FUR-FU-10001487,Furniture,"Eldon Expressions Wood and Plastic Desk Accessories, Cherry Wood",402.00
+CA-2018-114412,4/15/2018,AA-10480,Andrew Allen,Concord,North Carolina,28027,OFF-PA-10002365,Office Supplies,Xerox 1967,269.00
+CA-2017-161389,12/5/2017,IM-15070,Irene Maddox,Seattle,Washington,98103,OFF-BI-10003656,Office Supplies,Fellowes PB200 Plastic Comb Binding Machine,180.00
+US-2016-118983,11/22/2016,HP-14815,Harold Pawlan,Fort Worth,Texas,76106,OFF-AP-10002311,Office Supplies,"Holmes Replacement Filter for HEPA Air Cleaner, Very Large Room, HEPA Filter",275.00
+CA-2015-105893,11/11/2015,PK-19075,Pete Kriz,Madison,Wisconsin,53711,OFF-ST-10004186,Office Supplies,"Stur-D-Stor Shelving, Vertical 5-Shelf: 72""H x 36""W x 18 1/2""D",282.00
+CA-2015-167164,5/13/2015,AG-10270,Alejandro Grove,West Jordan,Utah,84084,OFF-ST-10000107,Office Supplies,Fellowes Super Stor/Drawer,195.00
+CA-2015-143336,8/27/2015,ZD-21925,Zuschuss Donatelli,San Francisco,California,94109,OFF-AR-10003056,Office Supplies,Newell 341,362.00
+CA-2017-137330,12/9/2017,KB-16585,Ken Black,Fremont,Nebraska,68025,OFF-AR-10000246,Office Supplies,Newell 318,130.00
+US-2018-156909,7/16/2018,SF-20065,Sandra Flanagan,Philadelphia,Pennsylvania,19140,FUR-CH-10002774,Furniture,"Global Deluxe Stacking Chair, Gray",493.00
+CA-2016-106320,9/25/2016,EB-13870,Emily Burns,Orem,Utah,84057,FUR-TA-10000577,Furniture,Bretford CR4500 Series Slim Rectangular Table,128.00
+CA-2017-121755,1/16/2017,EH-13945,Eric Hoffmann,Los Angeles,California,90049,OFF-BI-10001634,Office Supplies,Wilson Jones Active Use Binders,504.00
+US-2016-150630,9/17/2016,TB-21520,Tracy Blumstein,Philadelphia,Pennsylvania,19140,FUR-BO-10004834,Furniture,"Riverside Palais Royal Lawyers Bookcase, Royale Cherry Finish",382.00
+CA-2018-107727,10/19/2018,MA-17560,Matt Abelman,Houston,Texas,77095,OFF-PA-10000249,Office Supplies,Easy-staple paper,309.00
+CA-2017-117590,12/8/2017,GH-14485,Gene Hale,Richardson,Texas,75080,TEC-PH-10004977,Technology,GE 30524EE4,32.00
+CA-2016-117415,12/27/2016,SN-20710,Steve Nguyen,Houston,Texas,77041,OFF-EN-10002986,Office Supplies,#10-4 1/8" x 9 1/2" Premium Diagonal Seam Envelopes,526.00
+CA-2018-120999,9/10/2018,LC-16930,Linda Cazamias,Naperville,Illinois,60540,TEC-PH-10004093,Technology,Panasonic Kx-TS550,152.00
+CA-2017-101343,7/17/2017,RA-19885,Ruben Ausman,Los Angeles,California,90049,OFF-ST-10003479,Office Supplies,"Eldon Base for stackable storage shelf, platinum",394.00
+CA-2018-139619,9/19/2018,ES-14080,Erin Smith,Melbourne,Florida,32935,OFF-ST-10003282,Office Supplies,"Advantus 10-Drawer Portable Organizer, Chrome Metal Frame, Smoke Drawers",509.00
+CA-2017-118255,3/11/2017,ON-18715,Odella Nelson,Eagan,Minnesota,55122,TEC-AC-10000171,Technology,"Verbatim 25 GB 6x Blu-ray Single Layer Recordable Disc, 25/Pack",449.00
+CA-2015-146703,10/20/2015,PO-18865,Patrick O'Donnell,Westland,Michigan,48185,OFF-ST-10001713,Office Supplies,"Gould Plastics 9-Pocket Panel Bin, 18-3/8w x 5-1/4d x 20-1/2h, Black",105.00
+CA-2017-169194,6/20/2017,LH-16900,Lena Hernandez,Dover,Delaware,19901,TEC-AC-10002167,Technology,ImationÂ 8gb Micro Traveldrive Usb 2.0Â Flash Drive,24.00
+CA-2016-115742,4/18/2016,DP-13000,Darren Powers,New Albany,Indiana,47150,OFF-BI-10004410,Office Supplies,"C-Line Peel & Stick Add-On Filing Pockets, 8-3/4 x 5-1/8, 10/Pack",431.00
+CA-2017-105816,12/11/2017,JM-15265,Janet Molinari,New York City,New York,10024,OFF-FA-10000304,Office Supplies,Advantus Push Pins,542.00
+CA-2017-111682,6/17/2017,TB-21055,Ted Butterfield,Troy,New York,12180,OFF-ST-10000604,Office Supplies,Home/Office Personal File Carts,309.00
+CA-2016-135545,11/24/2016,KM-16720,Kunst Miller,Los Angeles,California,90004,TEC-AC-10004633,Technology,"Verbatim 25 GB 6x Blu-ray Single Layer Recordable Disc, 3/Pack",450.00
+US-2016-164175,4/30/2016,PS-18970,Paul Stevenson,Chicago,Illinois,60610,FUR-CH-10001146,Furniture,"Global Value Mid-Back Manager's Chair, Gray",440.00
+CA-2015-106376,12/5/2015,BS-11590,Brendan Sweed,Gilbert,Arizona,85234,OFF-AR-10002671,Office Supplies,"Hunt BOSTON Model 1606 High-Volume Electric Pencil Sharpener, Beige",53.00
+CA-2017-119823,6/4/2017,KD-16270,Karen Daniels,Springfield,Virginia,22153,OFF-PA-10000482,Office Supplies,"Snap-A-Way Black Print Carbonless Ruled Speed Letter, Triplicate",45.00
+CA-2017-106075,9/18/2017,HM-14980,Henry MacAllister,New York City,New York,10009,OFF-BI-10004654,Office Supplies,Avery Binding System Hidden Tab Executive Style Index Sets,54.00
+CA-2018-114440,9/14/2018,TB-21520,Tracy Blumstein,Jackson,Michigan,49201,OFF-PA-10004675,Office Supplies,"Telephone Message Books with Fax/Mobile Section, 5 1/2"" x 3 3/16""",4.00
+US-2016-134026,4/26/2016,JE-15745,Joel Eaton,Memphis,Tennessee,38109,FUR-CH-10000513,Furniture,High-Back Leather Manager's Chair,414.00
+US-2018-118038,12/9/2018,KB-16600,Ken Brennan,Houston,Texas,77041,OFF-BI-10004182,Office Supplies,Economy Binders,546.00
+US-2015-147606,11/26/2015,JE-15745,Joel Eaton,Houston,Texas,77070,FUR-FU-10003194,Furniture,"Eldon Expressions Desk Accessory, Wood Pencil Holder, Oak",409.00
+CA-2017-127208,6/12/2017,SC-20770,Stewart Carmichael,Decatur,Alabama,35601,OFF-AP-10002118,Office Supplies,1.7 Cubic Foot Compact "Cube" Office Refrigerators,63.00
+CA-2015-139451,10/12/2015,DN-13690,Duane Noonan,San Francisco,California,94122,OFF-AR-10002053,Office Supplies,"Premium Writing Pencils, Soft, #2 by Central Association for the Blind",193.00
+CA-2016-149734,9/3/2016,JC-16105,Julie Creighton,Durham,North Carolina,27707,OFF-EN-10000927,Office Supplies,Jet-Pak Recycled Peel 'N' Seal Padded Mailers,46.00
+US-2018-119662,11/13/2018,CS-12400,Christopher Schild,Chicago,Illinois,60623,OFF-ST-10003656,Office Supplies,Safco Industrial Wire Shelving,400.00
+CA-2018-140088,5/28/2018,PO-18865,Patrick O'Donnell,Columbia,South Carolina,29203,FUR-CH-10000863,Furniture,Novimex Swivel Fabric Task Chair,403.00
+CA-2018-155558,10/26/2018,PG-18895,Paul Gonzalez,Rochester,Minnesota,55901,TEC-AC-10001998,Technology,LogitechÂ LS21 Speaker System - PC Multimedia - 2.1-CH - Wired,6.00
+CA-2017-159695,4/5/2017,GM-14455,Gary Mitchum,Houston,Texas,77095,OFF-ST-10003442,Office Supplies,Eldon Portable Mobile Manager,213.00
+CA-2017-109806,9/17/2017,JS-15685,Jim Sink,Los Angeles,California,90036,OFF-AR-10004930,Office Supplies,Turquoise Lead Holder with Pocket Clip,470.00
+CA-2016-149587,1/31/2016,KB-16315,Karl Braun,Minneapolis,Minnesota,55407,OFF-PA-10003177,Office Supplies,Xerox 1999,545.00
+US-2018-109484,11/6/2018,RB-19705,Roger Barcio,Portland,Oregon,97206,OFF-BI-10004738,Office Supplies,Flexible Leather- Look Classic Collection Ring Binder,495.00
+CA-2018-161018,11/9/2018,PN-18775,Parhena Norris,New York City,New York,10009,FUR-FU-10000629,Furniture,9-3/4 Diameter Round Wall Clock,405.00
+CA-2018-157833,6/17/2018,KD-16345,Katherine Ducich,San Francisco,California,94122,OFF-BI-10001721,Office Supplies,Trimflex Flexible Post Binders,318.00
+CA-2017-149223,9/6/2017,ER-13855,Elpida Rittenbach,Saint Paul,Minnesota,55106,OFF-AP-10000358,Office Supplies,Fellowes Basic Home/Office Series Surge Protectors,446.00
+CA-2017-158568,8/29/2017,RB-19465,Rick Bensley,Chicago,Illinois,60610,OFF-PA-10003256,Office Supplies,Avery Personal Creations Heavyweight Cards,32.00
+CA-2017-129903,12/1/2017,GZ-14470,Gary Zandusky,Rochester,Minnesota,55901,OFF-PA-10004040,Office Supplies,Universal Premium White Copier/Laser Paper (20Lb. and 87 Bright),245.00
+US-2016-156867,11/13/2016,LC-16870,Lena Cacioppo,Aurora,Colorado,80013,TEC-AC-10001552,Technology,Logitech K350 2.4Ghz Wireless Keyboard,315.00
+CA-2018-119004,11/23/2018,JM-15250,Janet Martin,Charlotte,North Carolina,28205,TEC-AC-10003499,Technology,Memorex Mini Travel Drive 8 GB USB 2.0 Flash Drive,126.00
+CA-2016-129476,10/15/2016,PA-19060,Pete Armstrong,Orland Park,Illinois,60462,TEC-AC-10000844,Technology,LogitechÂ Gaming G510s - Keyboard,165.00
+CA-2018-146780,12/25/2018,CV-12805,Cynthia Voltz,New York City,New York,10035,FUR-FU-10001934,Furniture,Magnifier Swing Arm Lamp,95.00
+CA-2017-128867,11/3/2017,CL-12565,Clay Ludtke,Urbandale,Iowa,50322,OFF-AR-10000380,Office Supplies,"Hunt PowerHouse Electric Pencil Sharpener, Blue",5.00
+CA-2015-115259,8/25/2015,RC-19960,Ryan Crowe,Columbus,Ohio,43229,OFF-FA-10000621,Office Supplies,"OIC Colored Binder Clips, Assorted Sizes",325.00
+CA-2016-110457,3/2/2016,DK-13090,Dave Kipp,Seattle,Washington,98103,FUR-TA-10001768,Furniture,Hon Racetrack Conference Tables,363.00
+US-2016-136476,4/5/2016,GG-14650,Greg Guthrie,Bristol,Tennessee,37620,OFF-BI-10003650,Office Supplies,GBC DocuBind 300 Electric Binding Machine,374.00
+CA-2017-103730,6/12/2017,SC-20725,Steven Cartwright,Wilmington,Delaware,19805,FUR-FU-10002157,Furniture,Artistic Insta-Plaque,350.00
+US-2015-152030,12/26/2015,AD-10180,Alan Dominguez,Houston,Texas,77041,FUR-CH-10004063,Furniture,Global Deluxe High-Back Manager's Chair,281.00
+US-2015-134614,9/20/2015,PF-19165,Philip Fox,Bloomington,Illinois,61701,FUR-TA-10004534,Furniture,Bevis 44 x 96 Conference Tables,345.00
+US-2018-107272,11/5/2018,TS-21610,Troy Staebel,Phoenix,Arizona,85023,OFF-BI-10003274,Office Supplies,"Avery Durable Slant Ring Binders, No Labels",341.00
+US-2017-125969,11/6/2017,LS-16975,Lindsay Shagiari,Los Angeles,California,90004,FUR-CH-10001146,Furniture,"Global Task Chair, Black",451.00
+US-2018-164147,2/2/2018,DW-13585,Dorothy Wardle,Columbus,Ohio,43229,TEC-PH-10002293,Technology,Anker 36W 4-Port USB Wall Charger Travel Power Adapter for iPhone 5s 5c 5,492.00
+CA-2017-145583,10/13/2017,LC-16885,Lena Creighton,Roseville,California,95661,OFF-PA-10001804,Office Supplies,Xerox 195,309.00
+CA-2017-110366,9/5/2017,JD-15895,Jonathan Doherty,Philadelphia,Pennsylvania,19140,FUR-FU-10004848,Furniture,Howard Miller 13-3/4" Diameter Brushed Chrome Round Wall Clock,438.00
+CA-2018-106180,9/18/2018,SH-19975,Sally Hughsby,San Francisco,California,94122,OFF-AR-10000940,Office Supplies,Newell 343,213.00
+CA-2018-155376,12/22/2018,SG-20080,Sandra Glassco,Independence,Missouri,64055,OFF-AP-10001058,Office Supplies,Sanyo 2.5 Cubic Foot Mid-Size Office Refrigerators,466.00
+CA-2016-110744,9/7/2016,HA-14920,Helen Andreada,Pasadena,California,91104,OFF-ST-10003656,Office Supplies,Safco Industrial Wire Shelving,438.00
+CA-2015-110072,10/22/2015,MG-17680,Maureen Gastineau,Newark,Ohio,43055,FUR-FU-10000521,Furniture,Seth Thomas 14" Putty-Colored Wall Clock,118.00
+CA-2017-114489,12/5/2017,JE-16165,Justin Ellison,Franklin,Wisconsin,53132,TEC-PH-10000215,Technology,Plantronics CordlessÂ Phone HeadsetÂ with In-line Volume - M214C,28.00
+CA-2017-158834,3/13/2017,TW-21025,Tamara Willingham,Scottsdale,Arizona,85254,OFF-AP-10000326,Office Supplies,Belkin 7 Outlet SurgeMaster Surge Protector with Phone Protection,104.00
+CA-2016-124919,5/31/2016,SP-20650,Stephanie Phelps,San Jose,California,95123,OFF-PA-10001950,Office Supplies,Southworth 25% Cotton Antique Laid Paper & Envelopes,362.00
+CA-2016-118948,5/28/2016,NK-18490,Neil Knudson,Seattle,Washington,98105,OFF-AR-10001547,Office Supplies,Newell 311,24.00
+CA-2015-104269,3/1/2015,DB-13060,Dave Brooks,Seattle,Washington,98115,FUR-CH-10004063,Furniture,Global Deluxe High-Back Manager's Chair,48.00
+CA-2017-114104,11/20/2017,NP-18670,Nora Paige,Edmond,Oklahoma,73034,OFF-LA-10002475,Office Supplies,Avery 519,281.00
+CA-2017-162733,5/11/2017,TT-21070,Ted Trevino,Los Angeles,California,90045,OFF-PA-10002751,Office Supplies,Xerox 1920,124.00
+CA-2016-119697,12/28/2016,EM-13960,Eric Murdock,Philadelphia,Pennsylvania,19134,TEC-AC-10003657,Technology,Lenovo 17-Key USB Numeric Keypad,206.00
+CA-2017-154508,11/16/2017,RD-19900,Ruben Dartt,Carlsbad,New Mexico,88220,OFF-EN-10001990,Office Supplies,Staple envelope,429.00
+CA-2017-113817,11/7/2017,MJ-17740,Max Jones,Seattle,Washington,98115,OFF-BI-10004002,Office Supplies,Wilson Jones International Size A4 Ring Binders,8.00
+CA-2015-139892,9/8/2015,BM-11140,Becky Martin,San Antonio,Texas,78207,OFF-AR-10004441,Office Supplies,BIC Brite Liner Highlighters,230.00
+CA-2015-118962,8/5/2015,CS-12130,Chad Sievert,Los Angeles,California,90004,OFF-PA-10000659,Office Supplies,"Adams Phone Message Book, Professional, 400 Message Capacity, 5 3/6â€ x 11â€",299.00
+US-2015-100853,9/14/2015,JB-15400,Jennifer Braxton,Chicago,Illinois,60623,OFF-AP-10000891,Office Supplies,Kensington 7 Outlet MasterPiece HOMEOFFICE Power Control Center,151.00
+US-2018-152366,4/21/2018,SJ-20500,Shirley Jackson,Houston,Texas,77036,OFF-AP-10002684,Office Supplies,"Acco 7-Outlet Masterpiece Power Center, Wihtout Fax/Phone Line Protection",384.00
+US-2016-101511,11/21/2016,JE-15745,Joel Eaton,Newark,Ohio,43055,FUR-CH-10004698,Furniture,"Padded Folding Chairs, Black, 4/Carton",67.00
+CA-2016-137225,12/15/2016,JK-15640,Jim Kriz,New York City,New York,10009,OFF-AR-10001940,Office Supplies,"Sanford Colorific Eraseable Coloring Pencils, 12 Count",242.00
+CA-2015-166191,12/5/2015,DK-13150,David Kendrick,Decatur,Illinois,62521,OFF-ST-10003455,Office Supplies,"Tenex File Box, Personal Filing Tote with Lid, Black",457.00
+CA-2015-158274,11/19/2015,RM-19675,Robert Marley,Monroe,Louisiana,71203,TEC-PH-10003273,Technology,AT&T TR1909W,80.00
+CA-2017-105018,11/28/2017,SK-19990,Sally Knutson,Fairfield,Connecticut,6824,OFF-BI-10001890,Office Supplies,Avery Poly Binder Pockets,255.00
+CA-2015-123260,8/26/2015,FM-14290,Frank Merwin,Los Angeles,California,90032,TEC-AC-10002323,Technology,SanDisk Ultra 32 GB MicroSDHC Class 10 Memory Card,156.00
+CA-2017-157000,7/16/2017,AM-10360,Alice McCarthy,Grand Prairie,Texas,75051,OFF-ST-10001328,Office Supplies,"Personal Filing Tote with Lid, Black/Gray",489.00
+CA-2016-102281,10/12/2016,MP-17470,Mark Packer,New York City,New York,10035,FUR-BO-10002613,Furniture,"Atlantic Metals Mobile 4-Shelf Bookcases, Custom Colors",370.00
+CA-2016-131457,10/31/2016,MZ-17515,Mary Zewe,Redlands,California,92374,OFF-EN-10001509,Office Supplies,Poly String Tie Envelopes,184.00
+CA-2015-140004,3/21/2015,CB-12025,Cassandra Brandow,Hamilton,Ohio,45011,OFF-AR-10004685,Office Supplies,"Binney & Smith Crayola Metallic Colored Pencils, 8-Color Set",265.00
+CA-2018-107720,11/6/2018,VM-21685,Valerie Mitchum,Westfield,New Jersey,7090,OFF-ST-10001414,Office Supplies,Decoflex Hanging Personal Folder File,247.00
+US-2018-124303,7/6/2018,FH-14365,Fred Hopkins,Philadelphia,Pennsylvania,19120,OFF-BI-10000343,Office Supplies,"Pressboard Covers with Storage Hooks, 9 1/2"" x 11"", Light Blue",313.00
+CA-2018-105074,6/24/2018,MB-17305,Maria Bertelson,Akron,Ohio,44312,OFF-PA-10002666,Office Supplies,Southworth 25% Cotton Linen-Finish Paper & Envelopes,306.00
+CA-2015-133690,8/3/2015,BS-11755,Bruce Stewart,Denver,Colorado,80219,FUR-TA-10004289,Furniture,BoxOffice By Design Rectangular and Half-Moon Meeting Room Tables,475.00
+US-2018-116701,12/17/2018,LC-17140,Logan Currie,Dallas,Texas,75220,OFF-AP-10003217,Office Supplies,Eureka Sanitaire  Commercial Upright,417.00
+CA-2018-126382,6/3/2018,HK-14890,Heather Kirkland,Franklin,Tennessee,37064,FUR-FU-10002960,Furniture,"Eldon 200 Class Desk Accessories, Burgundy",136.00
+CA-2018-108329,12/9/2018,LE-16810,Laurel Elliston,Whittier,California,90604,TEC-PH-10001918,Technology,Nortel Business Series Terminal T7208 Digital phone,42.00
+CA-2018-135860,12/1/2018,JH-15985,Joseph Holt,Saginaw,Michigan,48601,OFF-ST-10000642,Office Supplies,"Tennsco Lockers, Gray",523.00
+CA-2016-101007,2/9/2016,MS-17980,Michael Stewart,Dallas,Texas,75220,TEC-AC-10001266,Technology,Memorex Micro Travel Drive 8 GB,136.00
+CA-2016-146262,1/2/2016,VW-21775,Victoria Wilson,Medina,Ohio,44256,OFF-LA-10004544,Office Supplies,Avery 505,219.00
+CA-2017-130162,10/28/2017,JH-15910,Jonathan Howell,Los Angeles,California,90032,OFF-ST-10001328,Office Supplies,"Personal Filing Tote with Lid, Black/Gray",143.00
+CA-2016-169397,12/24/2016,JB-15925,Joni Blumstein,Dublin,Ohio,43017,OFF-FA-10000585,Office Supplies,OIC Bulk Pack Metal Binder Clips,355.00
+CA-2016-163055,8/9/2016,DS-13180,David Smith,Detroit,Michigan,48227,OFF-AR-10001026,Office Supplies,"Sanford Uni-Blazer View Highlighters, Chisel Tip, Yellow",302.00
+US-2016-145436,2/28/2016,VD-21670,Valerie Dominguez,Columbia,Tennessee,38401,FUR-CH-10004860,Furniture,Global Low Back Tilter Chair,337.00
+US-2015-156216,9/13/2015,EA-14035,Erin Ashbrook,Charlotte,North Carolina,28205,OFF-BI-10001679,Office Supplies,GBC Instant Index System for Binding Systems,357.00
+US-2018-100930,4/7/2018,CS-12400,Christopher Schild,Tampa,Florida,33614,FUR-TA-10001705,Furniture,Bush Advantage Collection Round Conference Table,480.00
+CA-2018-160514,11/12/2018,DB-13120,David Bremer,Santa Clara,California,95051,OFF-PA-10002479,Office Supplies,Xerox 4200 Series MultiUse Premium Copy Paper (20Lb. and 84 Bright),30.00
+CA-2017-157749,6/4/2017,KL-16645,Ken Lonsdale,Chicago,Illinois,60610,OFF-PA-10003349,Office Supplies,Xerox 1957,225.00
+CA-2015-131926,6/1/2015,DW-13480,Dianna Wilson,Lakeville,Minnesota,55044,FUR-CH-10004063,Furniture,Global Deluxe High-Back Manager's Chair,341.00
+CA-2017-154739,12/10/2017,LH-17155,Logan Haushalter,San Francisco,California,94109,FUR-CH-10002965,Furniture,"Global Leather Highback Executive Chair with Pneumatic Height Adjustment, Black",486.00
+CA-2017-145625,9/11/2017,KC-16540,Kelly Collister,San Diego,California,92037,OFF-PA-10004569,Office Supplies,"Wirebound Message Books, Two 4 1/4"" x 5"" Forms per Page",252.00
+CA-2017-146941,12/10/2017,DL-13315,Delfina Latchford,New York City,New York,10024,OFF-ST-10001228,Office Supplies,"Fellowes Personal Hanging Folder Files, Navy",516.00
+US-2016-159982,11/28/2016,DR-12880,Dan Reichenbach,Chicago,Illinois,60623,FUR-FU-10002505,Furniture,Eldon 100 Class Desk Accessories,339.00
+CA-2018-163139,12/1/2018,CC-12670,Craig Carreira,New York City,New York,10009,TEC-AC-10000290,Technology,Sabrent 4-Port USB 2.0 Hub,421.00
+US-2018-155299,6/8/2018,Dl-13600,Dorris liebe,Pasadena,Texas,77506,OFF-AP-10002203,Office Supplies,Eureka Disposable Bags for Sanitaire Vibra Groomer I Upright Vac,375.00
+US-2015-106992,9/19/2015,SB-20290,Sean Braxton,Houston,Texas,77036,TEC-MA-10000822,Technology,Lexmark MX611dhe Monochrome Laser Printer,79.00
+CA-2017-125318,6/6/2017,RC-19825,Roy Collins,Chicago,Illinois,60610,TEC-PH-10001433,Technology,Cisco Small Business SPA 502G VoIP phone,353.00
+CA-2016-155040,11/10/2016,AH-10210,Alan Hwang,Brentwood,California,94513,TEC-AC-10004469,Technology,Microsoft Sculpt Comfort Mouse,411.00
+CA-2018-136826,6/16/2018,CB-12535,Claudia Bergmann,Chapel Hill,North Carolina,27514,OFF-AR-10003602,Office Supplies,"Quartet Omega Colored Chalk, 12/Pack",179.00
+CA-2017-111010,1/22/2017,PG-18895,Paul Gonzalez,Morristown,New Jersey,7960,OFF-FA-10003472,Office Supplies,Bagged Rubber Bands,237.00
+US-2018-145366,12/9/2018,CA-12310,Christine Abelman,Cincinnati,Ohio,45231,OFF-ST-10004180,Office Supplies,Safco Commercial Shelving,437.00
+CA-2018-163979,12/28/2018,KH-16690,Kristen Hastings,San Francisco,California,94110,OFF-ST-10003208,Office Supplies,Adjustable Depth Letter/Legal Cart,455.00
+CA-2016-155334,7/30/2016,HA-14920,Helen Andreada,San Francisco,California,94109,TEC-AC-10003628,Technology,Logitech 910-002974 M325 Wireless Mouse for Web Scrolling,306.00
+CA-2018-118136,9/16/2018,BB-10990,Barry Blumstein,Inglewood,California,90301,OFF-PA-10002615,Office Supplies,"Ampad Gold Fibre Wirebound Steno Books, 6"" x 9"", Gregg Ruled",348.00
+CA-2018-132976,10/13/2018,AG-10495,Andrew Gjertsen,Philadelphia,Pennsylvania,19140,OFF-PA-10000673,Office Supplies,"Post-it â€œImportant Messageâ€ Note Pad, Neon Colors, 50 Sheets/Pad",102.00
+US-2016-161991,9/26/2016,SC-20725,Steven Cartwright,Houston,Texas,77070,OFF-BI-10004967,Office Supplies,Round Ring Binders,24.00
+CA-2016-130890,11/2/2016,JO-15280,Jas O'Carroll,Los Angeles,California,90004,FUR-TA-10002903,Furniture,Bevis Round Bullnose 29" High Table Top,331.00
+CA-2016-130883,9/26/2016,TB-21520,Tracy Blumstein,Portland,Oregon,97206,OFF-PA-10000474,Office Supplies,Easy-staple paper,72.00
+CA-2017-112697,12/18/2017,AH-10195,Alan Haines,Tamarac,Florida,33319,OFF-BI-10000778,Office Supplies,GBC VeloBinder Electric Binding Machine,166.00
+CA-2017-110772,11/20/2017,NZ-18565,Nick Zandusky,Columbus,Ohio,43229,OFF-FA-10002983,Office Supplies,Advantus SlideClip Paper Clips,331.00
+CA-2015-111451,12/26/2015,KL-16555,Kelly Lampkin,Colorado Springs,Colorado,80906,FUR-FU-10004091,Furniture,Howard Miller 13" Diameter Goldtone Round Wall Clock,131.00
+CA-2017-142545,10/28/2017,JD-15895,Jonathan Doherty,Belleville,New Jersey,7109,OFF-PA-10002105,Office Supplies,Xerox 223,465.00
+US-2018-152380,11/19/2018,JH-15910,Jonathan Howell,Chicago,Illinois,60623,FUR-TA-10002533,Furniture,BPI Conference Tables,108.00
+CA-2016-144253,5/4/2016,AS-10225,Alan Schoenberger,New York City,New York,10024,FUR-FU-10002671,Furniture,Electrix 20W Halogen Replacement Bulb for Zoom-In Desk Lamp,525.00
+CA-2015-130960,12/30/2015,KB-16600,Ken Brennan,Taylor,Michigan,48180,OFF-AR-10003651,Office Supplies,Newell 350,219.00
+CA-2015-111003,6/1/2015,CR-12625,Corey Roper,Lakewood,New Jersey,8701,OFF-BI-10001072,Office Supplies,"GBC Clear Cover, 8-1/2 x 11, unpunched, 25 covers per pack",142.00
+CA-2018-126774,4/15/2018,SH-20395,Shahid Hopkins,Arlington,Virginia,22204,OFF-AR-10002804,Office Supplies,Faber Castell Col-Erase Pencils,256.00
+CA-2017-142902,9/12/2017,BP-11185,Ben Peterman,Arvada,Colorado,80004,FUR-FU-10001918,Furniture,C-Line Cubicle Keepers Polyproplyene Holder With Velcro Backings,544.00
+CA-2015-120887,9/27/2015,TS-21205,Thomas Seio,Hackensack,New Jersey,7601,FUR-FU-10001588,Furniture,"Deflect-o SuperTray Unbreakable Stackable Tray, Letter, Black",38.00
+CA-2015-167850,8/9/2015,AG-10525,Andy Gerbode,Saint Petersburg,Florida,33710,TEC-PH-10002398,Technology,AT&T 1070 Corded Phone,173.00
+CA-2015-164259,12/28/2015,SP-20860,Sung Pak,Philadelphia,Pennsylvania,19143,OFF-AR-10003373,Office Supplies,"Boston School Pro Electric Pencil Sharpener, 1670",461.00
+CA-2015-164973,11/4/2015,NM-18445,Nathan Mautz,New York City,New York,10024,FUR-CH-10002602,Furniture,DMI Arturo Collection Mission-style Design Wood Chair,35.00
+CA-2015-156601,9/19/2015,FA-14230,Frank Atkinson,Long Beach,California,90805,OFF-FA-10000624,Office Supplies,OIC Binder Clips,122.00
+CA-2017-162138,4/23/2017,GK-14620,Grace Kelly,Hesperia,California,92345,OFF-BI-10004593,Office Supplies,Ibico Laser Imprintable Binding System Covers,394.00
+CA-2018-153339,11/3/2018,DJ-13510,Don Jones,Murfreesboro,Tennessee,37130,FUR-FU-10001967,Furniture,Telescoping Adjustable Floor Lamp,378.00
+US-2017-141544,8/30/2017,PO-18850,Patrick O'Brill,Philadelphia,Pennsylvania,19143,TEC-PH-10003645,Technology,Aastra 57i VoIP phone,504.00
+US-2017-150147,4/25/2017,JL-15850,John Lucas,Philadelphia,Pennsylvania,19134,TEC-PH-10004614,Technology,AT&T 841000 Phone,413.00
+CA-2016-137946,9/1/2016,DB-13615,Doug Bickford,Los Angeles,California,90045,OFF-BI-10001922,Office Supplies,Storex Dura Pro Binders,127.00
+CA-2015-129924,7/12/2015,AC-10420,Alyssa Crouse,San Francisco,California,94122,OFF-BI-10003314,Office Supplies,Tuff Stuff Recycled Round Ring Binders,475.00
+CA-2016-128167,6/22/2016,KL-16645,Ken Lonsdale,Layton,Utah,84041,OFF-FA-10000490,Office Supplies,"OIC Binder Clips, Mini, 1/4"" Capacity, Black",76.00
+CA-2015-122336,4/13/2015,JD-15895,Jonathan Doherty,Philadelphia,Pennsylvania,19140,OFF-AR-10000122,Office Supplies,Newell 314,217.00
+US-2016-120712,12/20/2016,CS-12130,Chad Sievert,Austin,Texas,78745,OFF-ST-10000107,Office Supplies,Fellowes Super Stor/Drawer,57.00
+CA-2018-169901,6/15/2018,CC-12550,Clay Cheatham,San Francisco,California,94122,TEC-PH-10002293,Technology,Anker 36W 4-Port USB Wall Charger Travel Power Adapter for iPhone 5s 5c 5,351.00
+CA-2018-134306,7/8/2018,TD-20995,Tamara Dahlen,Lowell,Massachusetts,1852,OFF-AR-10004027,Office Supplies,"Binney & Smith inkTank Erasable Desk Highlighter, Chisel Tip, Yellow, 12/Box",276.00
+CA-2017-129714,9/1/2017,AB-10060,Adam Bellavance,New York City,New York,10009,TEC-AC-10000290,Technology,Sabrent 4-Port USB 2.0 Hub,248.00
+CA-2017-138520,4/8/2017,JL-15505,Jeremy Lonsdale,New York City,New York,10035,FUR-BO-10002268,Furniture,Sauder Barrister Bookcases,287.00
+CA-2017-130001,4/23/2017,HK-14890,Heather Kirkland,Charlotte,North Carolina,28205,OFF-PA-10002666,Office Supplies,Southworth 25% Cotton Linen-Finish Paper & Envelopes,404.00
+CA-2018-155698,3/8/2018,VB-21745,Victoria Brennan,Columbus,Georgia,31907,OFF-AP-10001124,Office Supplies,Belkin 8 Outlet SurgeMaster II Gold Surge Protector with Phone Protection,227.00
+CA-2018-144904,9/25/2018,KW-16435,Katrina Willman,New York City,New York,10009,OFF-LA-10001158,Office Supplies,"Avery Address/Shipping Labels for Typewriters, 4"" x 2""",368.00
+CA-2015-123344,9/24/2015,JD-16060,Julia Dunbar,San Francisco,California,94109,OFF-ST-10001713,Office Supplies,"Gould Plastics 9-Pocket Panel Bin, 18-3/8w x 5-1/4d x 20-1/2h, Black",263.00
+CA-2017-155516,10/21/2017,MK-17905,Michael Kennedy,Manchester,Connecticut,6040,OFF-BI-10002412,Office Supplies,Wilson Jones â€œSnapâ€ Scratch Pad Binder Tool for Ring Binders,49.00
+CA-2018-104745,5/29/2018,GT-14755,Guy Thornton,Harlingen,Texas,78550,OFF-PA-10002036,Office Supplies,Xerox 1930,483.00
+US-2015-119137,7/23/2015,AG-10900,Arthur Gainer,Tucson,Arizona,85705,OFF-BI-10001982,Office Supplies,Wilson Jones Custom Binder Spines & Labels,11.00
+US-2017-134656,9/28/2017,MM-18280,Muhammed MacIntyre,Quincy,Illinois,62301,OFF-PA-10003039,Office Supplies,Xerox 1960,233.00
+US-2018-134481,8/27/2018,AR-10405,Allen Rosenblatt,Franklin,Massachusetts,2038,FUR-TA-10004915,Furniture,"Office Impressions End Table, 20-1/2""H x 24""W x 20""D",384.00
+CA-2016-130792,4/28/2016,RA-19915,Russell Applegate,Houston,Texas,77095,OFF-AP-10000696,Office Supplies,Holmes Odor Grabber,225.00
+CA-2017-134775,10/28/2017,AS-10285,Alejandro Savely,San Francisco,California,94109,OFF-PA-10004734,Office Supplies,Southworth Structures Collection,208.00
+CA-2016-125395,6/26/2016,LA-16780,Laura Armstrong,Taylor,Michigan,48180,TEC-AC-10004708,Technology,Sony 32GB Class 10 Micro SDHC R40 Memory Card,474.00
+US-2016-168935,11/27/2016,DO-13435,Denny Ordway,Pembroke Pines,Florida,33024,FUR-TA-10000617,Furniture,"Hon Practical Foundations 30 x 60 Training Table, Light Gray/Charcoal",106.00
+CA-2016-122756,12/3/2016,DK-13225,Dean Katz,Philadelphia,Pennsylvania,19140,TEC-MA-10001681,Technology,Lexmark MarkNet N8150 Wireless Print Server,75.00
+CA-2015-115973,11/24/2015,NG-18430,Nathan Gelder,Cincinnati,Ohio,45231,OFF-AR-10004757,Office Supplies,Crayola Colored Pencils,236.00
+CA-2018-101798,12/11/2018,MV-18190,Mike Vittorini,New York City,New York,10009,OFF-BI-10000050,Office Supplies,"Angle-D Binders with Locking Rings, Label Holders",185.00
+US-2015-135972,9/21/2015,JG-15115,Jack Garza,Des Moines,Washington,98198,TEC-PH-10003012,Technology,Nortel Meridian M3904 Professional Digital phone,193.00
+US-2015-134971,6/7/2015,BP-11095,Bart Pistole,Peoria,Illinois,61604,OFF-BI-10003982,Office Supplies,Wilson Jones Century Plastic Molded Ring Binders,461.00
+CA-2018-102946,6/30/2018,VP-21730,Victor Preis,Las Vegas,Nevada,89115,OFF-BI-10004492,Office Supplies,Tuf-Vin Binders,422.00
+CA-2018-165603,10/17/2018,SS-20140,Saphhira Shifley,Warwick,Rhode Island,2886,OFF-ST-10000798,Office Supplies,2300 Heavy-Duty Transfer File Systems by Perma,449.00
+CA-2016-122259,10/31/2016,HP-14815,Harold Pawlan,Jackson,Michigan,49201,OFF-SU-10002573,Office Supplies,Acme 10" Easy Grip Assistive Scissors,521.00
+CA-2017-108987,9/8/2017,AG-10675,Anna Gayman,Houston,Texas,77036,OFF-ST-10001580,Office Supplies,Super Decoflex Portable Personal File,123.00
+CA-2015-113166,12/24/2015,LF-17185,Luke Foster,Miami,Florida,33180,OFF-PA-10001947,Office Supplies,Xerox 1974,260.00
+CA-2015-155208,4/16/2015,SP-20650,Stephanie Phelps,Wilmington,North Carolina,28403,OFF-AR-10003478,Office Supplies,"Avery Hi-Liter EverBold Pen Style Fluorescent Highlighters, 4/Pack",355.00
+CA-2018-117933,12/24/2018,RF-19840,Roy FranzÃ¶sisch,New York City,New York,10024,OFF-AP-10004249,Office Supplies,Staple holder,326.00
+CA-2018-117457,12/8/2018,KH-16510,Keith Herrera,San Francisco,California,94110,TEC-AC-10000158,Technology,Sony 64GB Class 10 Micro SDHC R40 Memory Card,63.00
+CA-2018-142636,11/3/2018,KC-16675,Kimberly Carter,Seattle,Washington,98105,OFF-PA-10000157,Office Supplies,Xerox 191,142.00
+CA-2018-122105,6/24/2018,CJ-12010,Caroline Jumper,Huntington Beach,California,92646,OFF-AR-10004344,Office Supplies,Bulldog Vacuum Base Pencil Sharpener,371.00
+CA-2017-148796,4/14/2017,PB-19150,Philip Brown,Los Angeles,California,90004,FUR-CH-10004886,Furniture,Bevis Steel Folding Chairs,400.00
+CA-2018-154816,11/6/2018,VB-21745,Victoria Brennan,Richmond,Kentucky,40475,OFF-PA-10003845,Office Supplies,Xerox 1987,349.00
+CA-2018-110478,3/4/2018,SP-20860,Sung Pak,Los Angeles,California,90045,OFF-AR-10001573,Office Supplies,American Pencil,247.00
+CA-2015-142048,6/22/2015,JE-15745,Joel Eaton,Louisville,Colorado,80027,TEC-AC-10004114,Technology,KeyTronicÂ 6101 Series -Â KeyboardÂ - Black,98.00
+CA-2018-125388,10/19/2018,MP-17965,Michael Paige,Lawrence,Massachusetts,1841,FUR-FU-10004712,Furniture,"Westinghouse Mesh Shade Clip-On Gooseneck Lamp, Black",143.00
+CA-2018-155705,8/21/2018,NF-18385,Natalie Fritzler,Jackson,Mississippi,39212,FUR-CH-10000015,Furniture,Hon Multipurpose Stacking Arm Chairs,459.00
+CA-2018-149160,11/23/2018,JM-15265,Janet Molinari,Canton,Michigan,48187,FUR-FU-10003347,Furniture,Coloredge Poster Frame,75.00
+CA-2015-101476,9/12/2015,SD-20485,Shirley Daniels,New Rochelle,New York,10801,TEC-MA-10000029,Technology,"Epson WorkForce WF-2530 All-in-One Printer, Copier Scanner",130.00
+CA-2018-152275,10/1/2018,KH-16630,Ken Heidel,San Antonio,Texas,78207,OFF-AR-10000369,Office Supplies,Design Ebony Sketching Pencil,69.00
+US-2017-123750,4/15/2017,RB-19795,Ross Baird,Gastonia,North Carolina,28052,OFF-BI-10004584,Office Supplies,GBC ProClick 150 Presentation Binding System,364.00
+CA-2017-127369,6/6/2017,DB-13060,Dave Brooks,Lowell,Massachusetts,1852,OFF-ST-10003306,Office Supplies,Letter Size Cart,533.00
+US-2015-150574,12/19/2015,MK-18160,Mike Kennedy,Jacksonville,Florida,32216,OFF-BI-10000773,Office Supplies,Insertable Tab Post Binder Dividers,336.00
+CA-2017-147375,6/12/2017,PO-19180,Philisse Overcash,Chicago,Illinois,60623,TEC-MA-10002937,Technology,"Canon Color ImageCLASS MF8580Cdw Wireless Laser All-In-One Printer, Copier, Scanner",516.00
+CA-2018-130043,9/15/2018,BB-11545,Brenda Bowman,Houston,Texas,77070,OFF-PA-10002230,Office Supplies,Xerox 1897,32.00
+CA-2018-157252,1/20/2018,CV-12805,Cynthia Voltz,New York City,New York,10024,FUR-CH-10003396,Furniture,Global Deluxe Steno Chair,70.00
+CA-2017-115756,9/5/2017,PK-19075,Pete Kriz,Detroit,Michigan,48227,FUR-FU-10000246,Furniture,Aluminum Document Frame,339.00
+CA-2018-154214,3/20/2018,TB-21595,Troy Blackwell,Columbus,Indiana,47201,FUR-FU-10000206,Furniture,"GE General Purpose, Extra Long Life, Showcase & Floodlight Incandescent Bulbs",251.00
+CA-2017-166674,4/1/2017,RB-19360,Raymond Buch,Auburn,New York,13021,OFF-AR-10000588,Office Supplies,Newell 345,184.00
+CA-2018-147277,10/20/2018,EB-13705,Ed Braxton,Akron,Ohio,44312,FUR-TA-10001539,Furniture,Chromcraft Rectangular Conference Tables,268.00
+CA-2017-100153,12/13/2017,KH-16630,Ken Heidel,Norman,Oklahoma,73071,TEC-AC-10001772,Technology,Memorex Mini Travel Drive 16 GB USB 2.0 Flash Drive,137.00
+US-2015-110674,2/12/2015,SC-20095,Sanjit Chand,Concord,California,94521,FUR-CH-10000225,Furniture,"Global Geo Office Task Chair, Gray",362.00
+US-2017-157945,9/26/2017,NF-18385,Natalie Fritzler,Decatur,Illinois,62521,FUR-CH-10002331,Furniture,Hon 4700 Series Mobuis Mid-Back Task Chairs with Adjustable Arms,386.00
+CA-2016-109638,12/15/2016,JH-15985,Joseph Holt,Seattle,Washington,98115,OFF-AP-10002472,Office Supplies,3M Office Air Cleaner,209.00
+CA-2017-109869,4/22/2017,TN-21040,Tanja Norvell,Phoenix,Arizona,85023,FUR-FU-10000023,Furniture,Eldon Wave Desk Accessories,168.00
+US-2016-101399,1/17/2016,JS-15940,Joni Sundaresam,Park Ridge,Illinois,60068,FUR-FU-10002918,Furniture,Eldon ClusterMat Chair Mat with Cordless Antistatic Protection,240.00
+CA-2018-154907,3/31/2018,DS-13180,David Smith,Amarillo,Texas,79109,FUR-BO-10002824,Furniture,Bush Mission Pointe Library,105.00
+US-2017-100419,12/16/2017,CC-12670,Craig Carreira,Chicago,Illinois,60610,OFF-BI-10002194,Office Supplies,Cardinal Hold-It CD Pocket,489.00
+CA-2016-154144,12/20/2016,MH-17785,Maya Herman,Lindenhurst,New York,11757,OFF-PA-10004071,Office Supplies,"Eaton Premium Continuous-Feed Paper, 25% Cotton, Letter Size, White, 1000 Shts/Box",305.00
+CA-2015-144666,11/9/2015,JP-15520,Jeremy Pistek,San Francisco,California,94110,OFF-ST-10002743,Office Supplies,SAFCO Boltless Steel Shelving,255.00
+CA-2017-103891,7/12/2017,KH-16690,Kristen Hastings,Los Angeles,California,90008,TEC-PH-10000149,Technology,Cisco SPA525G2 IP Phone - Wireless,9.00
+CA-2017-152632,10/27/2017,JE-15475,Jeremy Ellison,Troy,New York,12180,FUR-FU-10002671,Furniture,Electrix 20W Halogen Replacement Bulb for Zoom-In Desk Lamp,14.00
+CA-2017-100790,6/26/2017,JG-15805,John Grady,New York City,New York,10024,OFF-AR-10003045,Office Supplies,Prang Colored Pencils,54.00
+CA-2015-134677,10/6/2015,XP-21865,Xylona Preis,San Diego,California,92024,TEC-AC-10001445,Technology,ImationÂ USB 2.0 SwivelÂ Flash DriveÂ USBÂ flash driveÂ - 4 GB - Pink,293.00
+CA-2015-127691,7/22/2015,EM-14065,Erin Mull,New York City,New York,10024,OFF-AR-10002053,Office Supplies,"Premium Writing Pencils, Soft, #2 by Central Association for the Blind",280.00
+CA-2018-140963,6/10/2018,MT-18070,Michelle Tran,Los Angeles,California,90045,OFF-LA-10003923,Office Supplies,Alphabetical Labels for Top Tab Filing,186.00
+CA-2015-154627,10/29/2015,SA-20830,Sue Ann Reed,Chicago,Illinois,60610,TEC-PH-10001363,Technology,Apple iPhone 5S,509.00
+CA-2015-133753,6/9/2015,CW-11905,Carl Weiss,Huntsville,Texas,77340,TEC-PH-10000376,Technology,Square Credit Card Reader,174.00
+CA-2015-113362,9/14/2015,AJ-10960,Astrea Jones,Rochester,New York,14609,OFF-ST-10001809,Office Supplies,Fellowes Officeware Wire Shelving,66.00
+CA-2017-169166,5/9/2017,SS-20590,Sonia Sunley,Seattle,Washington,98115,TEC-AC-10000991,Technology,Sony Micro Vault Click 8 GB USB 2.0 Flash Drive,65.00
+US-2017-120929,3/18/2017,RO-19780,Rose O'Brian,Memphis,Tennessee,38109,FUR-TA-10001857,Furniture,Balt Solid Wood Rectangular Table,388.00
+CA-2016-134782,12/27/2016,MD-17350,Maribeth Dona,Fayetteville,Arkansas,72701,OFF-EN-10001434,Office Supplies,"Strathmore #10 Envelopes, Ultimate White",449.00
+CA-2017-126158,7/25/2017,SC-20095,Sanjit Chand,Costa Mesa,California,92627,OFF-BI-10002498,Office Supplies,Clear Mylar Reinforcing Strips,4.00
+US-2017-105578,5/30/2017,MY-17380,Maribeth Yedwab,Parker,Colorado,80134,OFF-BI-10001670,Office Supplies,Vinyl Sectional Post Binders,71.00
+CA-2018-134978,11/12/2018,EB-13705,Ed Braxton,New York City,New York,10024,OFF-BI-10003274,Office Supplies,"Avery Durable Slant Ring Binders, No Labels",393.00
+CA-2016-145352,3/16/2016,CM-12385,Christopher Martinez,Atlanta,Georgia,30318,OFF-AR-10001662,Office Supplies,Rogers Handheld Barrel Pencil Sharpener,18.00
+CA-2018-135307,11/26/2018,LS-17245,Lynn Smith,Gladstone,Missouri,64118,FUR-FU-10001290,Furniture,Executive Impressions Supervisor Wall Clock,301.00
+CA-2017-106341,10/20/2017,LF-17185,Luke Foster,Newark,Ohio,43055,OFF-AR-10002053,Office Supplies,"Premium Writing Pencils, Soft, #2 by Central Association for the Blind",485.00
+CA-2018-163405,12/21/2018,BN-11515,Bradley Nguyen,Los Angeles,California,90049,OFF-AR-10003811,Office Supplies,Newell 327,435.00
+CA-2018-127432,1/22/2018,AD-10180,Alan Dominguez,Great Falls,Montana,59405,TEC-CO-10003236,Technology,Canon Image Class D660 Copier,245.00
+CA-2016-157812,3/22/2016,DB-13210,Dean Braden,Houston,Texas,77041,TEC-AC-10000171,Technology,"Verbatim 25 GB 6x Blu-ray Single Layer Recordable Disc, 25/Pack",517.00
+CA-2018-145142,1/23/2018,MC-17605,Matt Connell,Detroit,Michigan,48234,FUR-TA-10001857,Furniture,Balt Solid Wood Rectangular Table,541.00
+US-2017-139486,5/21/2017,LH-17155,Logan Haushalter,Los Angeles,California,90032,TEC-PH-10003555,Technology,Motorola HK250 Universal Bluetooth Headset,275.00
+CA-2016-158792,12/26/2016,BD-11605,Brian Dahlen,Lawrence,Massachusetts,1841,OFF-FA-10002815,Office Supplies,Staples,358.00
+CA-2018-113558,10/21/2018,PH-18790,Patricia Hirasaki,Lakeland,Florida,33801,FUR-CH-10003379,Furniture,Global Commerce Series High-Back Swivel/Tilt Chairs,487.00
+US-2016-138303,9/3/2016,MG-18145,Mike Gockenbach,Philadelphia,Pennsylvania,19134,OFF-ST-10004963,Office Supplies,Eldon Gobal File Keepers,243.00
+CA-2016-102848,11/7/2016,KB-16240,Karen Bern,Los Angeles,California,90036,FUR-CH-10000595,Furniture,Safco Contoured Stacking Chairs,109.00
+US-2018-129441,9/7/2018,JC-15340,Jasper Cacioppo,Los Angeles,California,90032,FUR-FU-10000448,Furniture,Tenex Chairmats For Use With Carpeted Floors,491.00
+CA-2017-168753,5/29/2017,RL-19615,Rob Lucas,Montgomery,Alabama,36116,TEC-PH-10000984,Technology,Panasonic KX-TG9471B,192.00
+CA-2017-126613,7/10/2017,AA-00012,Allen Armold,Mesa,Arizona,85204,OFF-ST-10001325,Office Supplies,Sterilite Officeware Hinged File Box,20.00
+US-2018-122637,9/3/2018,EP-13915,Emily Phan,Chicago,Illinois,60653,OFF-BI-10002429,Office Supplies,"Premier Elliptical Ring Binder, Black",455.00
+CA-2016-147851,12/3/2016,MP-17470,Mark Packer,New York City,New York,10009,OFF-BI-10004528,Office Supplies,Cardinal Poly Pocket Divider Pockets for Ring Binders,535.00
+CA-2016-134894,12/7/2016,DK-12985,Darren Koutras,Henderson,Kentucky,42420,OFF-AP-10001271,Office Supplies,Eureka The Boss Cordless Rechargeable Stick Vac,540.00
+CA-2015-140795,2/1/2015,BD-11500,Bradley Drucker,Green Bay,Wisconsin,54302,TEC-AC-10001432,Technology,Enermax Aurora Lite Keyboard,15.00
+CA-2017-136924,7/14/2017,ES-14080,Erin Smith,Tucson,Arizona,85705,TEC-PH-10002262,Technology,LG Electronics Tone+ HBS-730 Bluetooth Headset,144.00
+US-2016-120161,12/18/2016,LM-17065,Liz MacKendrick,Springfield,Ohio,45503,OFF-ST-10001809,Office Supplies,Fellowes Officeware Wire Shelving,47.00
+CA-2015-103849,5/11/2015,PG-18895,Paul Gonzalez,Fort Worth,Texas,76106,TEC-AC-10001465,Technology,SanDisk Cruzer 64 GB USB Flash Drive,96.00
+CA-2018-162929,11/19/2018,AS-10135,Adrian Shami,New York City,New York,10035,OFF-BI-10000404,Office Supplies,Avery Printable Repositionable Plastic Tabs,188.00
+CA-2016-113173,11/15/2016,DK-13225,Dean Katz,Chicago,Illinois,60653,OFF-ST-10000604,Office Supplies,Home/Office Personal File Carts,210.00
+CA-2017-136406,4/15/2017,BD-11320,Bill Donatelli,San Francisco,California,94110,FUR-CH-10002024,Furniture,HON 5400 Series Task Chairs for Big and Tall,287.00
+CA-2018-112774,9/11/2018,RC-19960,Ryan Crowe,Jacksonville,Florida,32216,FUR-FU-10003039,Furniture,Howard Miller 11-1/2" Diameter Grantwood Wall Clock,121.00
+CA-2018-101945,11/24/2018,GT-14710,Greg Tran,Houston,Texas,77070,OFF-FA-10004248,Office Supplies,Advantus T-Pin Paper Clips,107.00
+CA-2018-100650,6/29/2018,DK-13225,Dean Katz,Anaheim,California,92804,OFF-ST-10001780,Office Supplies,Tennsco 16-Compartment Lockers with Coat Rack,123.00
+CA-2015-155852,3/3/2015,AJ-10945,Ashley Jarboe,Wilmington,North Carolina,28403,OFF-AR-10003560,Office Supplies,Zebra Zazzle Fluorescent Highlighters,23.00
+CA-2017-113243,6/10/2017,OT-18730,Olvera Toch,Los Angeles,California,90045,OFF-LA-10001297,Office Supplies,Avery 473,488.00
+CA-2018-118731,11/20/2018,LP-17080,Liz Pelletier,San Francisco,California,94110,FUR-FU-10003347,Furniture,Coloredge Poster Frame,16.00
+CA-2015-145576,9/14/2015,CA-12775,Cynthia Arntzen,Tampa,Florida,33614,OFF-AP-10003914,Office Supplies,"Sanitaire Vibra Groomer IR Commercial Upright Vacuum, Replacement Belts",126.00
+CA-2016-130736,12/7/2016,JF-15490,Jeremy Farry,Seattle,Washington,98105,OFF-FA-10003467,Office Supplies,"Alliance Big Bands Rubber Bands, 12/Pack",110.00
+CA-2018-137099,12/7/2018,FP-14320,Frank Preis,Los Angeles,California,90008,TEC-PH-10002496,Technology,Cisco SPA301,307.00
+CA-2018-156951,10/1/2018,EB-13840,Ellis Ballard,Seattle,Washington,98105,OFF-PA-10004530,Office Supplies,Personal Creations Ink Jet Cards and Labels,62.00
+CA-2018-164826,12/28/2018,JF-15415,Jennifer Ferguson,New York City,New York,10024,OFF-LA-10001297,Office Supplies,Avery 473,511.00
+CA-2017-127250,11/3/2017,SF-20200,Sarah Foster,Marysville,Washington,98270,OFF-AR-10003394,Office Supplies,Newell 332,229.00
+CA-2016-149713,9/18/2016,TG-21640,Trudy Glocke,Long Beach,California,90805,OFF-PA-10004530,Office Supplies,Personal Creations Ink Jet Cards and Labels,135.00
+CA-2018-118640,7/20/2018,CS-11950,Carlos Soltero,Chicago,Illinois,60610,OFF-ST-10002974,Office Supplies,"Trav-L-File Heavy-Duty Shuttle II, Black",228.00
+CA-2016-132906,9/10/2016,CC-12145,Charles Crestani,Los Angeles,California,90004,OFF-SU-10004498,Office Supplies,Martin-Yale Premier Letter Opener,315.00
+CA-2018-145233,12/1/2018,DV-13465,Dianna Vittorini,Denver,Colorado,80219,TEC-PH-10004977,Technology,GE 30524EE4,109.00
+CA-2016-128139,7/3/2016,BD-11725,Bruce Degenhardt,Richmond,Kentucky,40475,FUR-CH-10003956,Furniture,Novimex High-Tech Fabric Mesh Task Chair,449.00
+US-2017-156986,3/20/2017,ZC-21910,Zuschuss Carroll,Salem,Oregon,97301,TEC-PH-10003800,Technology,i.Sound Portable Power - 8000 mAh,289.00
+CA-2015-135405,1/9/2015,MS-17830,Melanie Seite,Laredo,Texas,78041,OFF-AR-10004078,Office Supplies,Newell 312,234.00
+CA-2015-131450,8/8/2015,LR-16915,Lena Radford,San Diego,California,92024,OFF-AP-10004708,Office Supplies,Fellowes Superior 10 Outlet Split Surge Protector,400.00
+CA-2017-120180,7/14/2017,TP-21130,Theone Pippenger,Philadelphia,Pennsylvania,19134,OFF-SU-10004115,Office Supplies,Acme Stainless Steel Office Snips,405.00
+US-2017-100720,7/16/2017,CK-12205,Chloris Kastensmidt,Philadelphia,Pennsylvania,19120,TEC-PH-10001425,Technology,Mophie Juice Pack Helium for iPhone,495.00
+CA-2015-149958,3/15/2015,AS-10240,Alan Shonely,Tampa,Florida,33614,OFF-ST-10001490,Office Supplies,"Hot File 7-Pocket, Floor Stand",254.00
+US-2015-105767,5/23/2015,AR-10510,Andrew Roberts,Philadelphia,Pennsylvania,19134,OFF-BI-10000848,Office Supplies,Angle-D Ring Binders,484.00
+CA-2017-161816,4/28/2017,NB-18655,Nona Balk,Dallas,Texas,75217,TEC-PH-10003012,Technology,Nortel Meridian M3904 Professional Digital phone,443.00
+CA-2017-121223,9/11/2017,GD-14590,Giulietta Dortch,Philadelphia,Pennsylvania,19143,OFF-PA-10001204,Office Supplies,Xerox 1972,424.00
+CA-2018-138611,11/14/2018,CK-12595,Clytie Kelty,Grove City,Ohio,43123,TEC-PH-10000011,Technology,PureGear Roll-On Screen Protector,374.00
+CA-2018-117947,8/18/2018,NG-18355,Nat Gilpin,New York City,New York,10011,FUR-FU-10003849,Furniture,"DAX Metal Frame, Desktop, Stepped-Edge",218.00
+US-2015-111171,12/26/2015,CA-12265,Christina Anderson,Chicago,Illinois,60610,OFF-BI-10002103,Office Supplies,"Cardinal Slant-D Ring Binder, Heavy Gauge Vinyl",66.00
+CA-2016-138009,11/29/2016,SF-20965,Sylvia Foulston,Dearborn,Michigan,48126,FUR-CH-10004853,Furniture,"Global Manager's Adjustable Task Chair, Storm",106.00
+CA-2018-163020,9/15/2018,MO-17800,Meg O'Connel,New York City,New York,10009,FUR-FU-10000221,Furniture,"Master Caster Door Stop, Brown",247.00
+CA-2018-153787,5/19/2018,AT-10735,Annie Thurman,Seattle,Washington,98115,OFF-AP-10001563,Office Supplies,Belkin Premiere Surge Master II 8-outlet surge protector,53.00
+CA-2018-133431,12/17/2018,LC-17140,Logan Currie,San Francisco,California,94122,OFF-BI-10000605,Office Supplies,"Acco Pressboard Covers with Storage Hooks, 9 1/2"" x 11"", Executive Red",149.00
+US-2017-135720,12/11/2017,FM-14380,Fred McMath,Aurora,Colorado,80013,OFF-ST-10001963,Office Supplies,Tennsco Regal Shelving Units,212.00
+CA-2018-144694,9/24/2018,BD-11605,Brian Dahlen,Miami,Florida,33180,TEC-AC-10002857,Technology,"Verbatim 25 GB 6x Blu-ray Single Layer Recordable Disc, 1/Pack",497.00
+CA-2016-168004,10/4/2016,DJ-13420,Denny Joy,Warner Robins,Georgia,31088,FUR-CH-10001482,Furniture,Office Star - Mesh Screen back chair with Vinyl seat,116.00
+US-2017-123470,8/15/2017,ME-17725,Max Engle,Aurora,Colorado,80013,OFF-BI-10001989,Office Supplies,Premium Transparent Presentation Covers by GBC,168.00
+CA-2017-115917,5/20/2017,RB-19465,Rick Bensley,Vallejo,California,94591,FUR-FU-10000576,Furniture,Luxo Professional Fluorescent Magnifier Lamp with Clamp-Mount Base,148.00
+CA-2017-147067,12/18/2017,JD-16150,Justin Deggeller,Minneapolis,Minnesota,55407,FUR-FU-10000732,Furniture,Eldon 200 Class Desk Accessories,532.00
+CA-2018-167913,7/30/2018,JL-15835,John Lee,Mission Viejo,California,92691,OFF-ST-10000585,Office Supplies,Economy Rollaway Files,33.00
+CA-2018-106103,6/10/2018,SC-20305,Sean Christensen,Rochester Hills,Michigan,48307,TEC-AC-10003832,Technology,ImationÂ 16GB Mini TravelDrive USB 2.0Â Flash Drive,221.00
+US-2018-127719,7/21/2018,TW-21025,Tamara Willingham,Plainfield,New Jersey,7060,OFF-PA-10001934,Office Supplies,Xerox 1993,515.00
+CA-2018-126221,12/30/2018,CC-12430,Chuck Clark,Columbus,Indiana,47201,OFF-AP-10002457,Office Supplies,"Eureka The Boss Plus 12-Amp Hard Box Upright Vacuum, Red",350.00
+CA-2017-103947,4/1/2017,BB-10990,Barry Blumstein,Sierra Vista,Arizona,85635,OFF-FA-10003112,Office Supplies,Staples,352.00
+CA-2017-160745,12/11/2017,AR-10825,Anthony Rawles,Vancouver,Washington,98661,FUR-FU-10001935,Furniture,3M Hangers With Command Adhesive,339.00
+CA-2017-132661,10/23/2017,SR-20740,Steven Roelle,New York City,New York,10024,OFF-PA-10000482,Office Supplies,"Snap-A-Way Black Print Carbonless Ruled Speed Letter, Triplicate",359.00
+CA-2018-140844,6/19/2018,AR-10405,Allen Rosenblatt,New York City,New York,10035,OFF-PA-10003892,Office Supplies,Xerox 1943,84.00
+CA-2017-137239,8/22/2017,CR-12730,Craig Reiter,Columbus,Ohio,43229,OFF-AP-10002439,Office Supplies,Tripp Lite Isotel 8 Ultra 8 Outlet Metal Surge,489.00
+US-2017-156097,9/19/2017,EH-14125,Eugene Hildebrand,Aurora,Illinois,60505,FUR-CH-10001215,Furniture,Global Troy Executive Leather Low-Back Tilter,255.00
+CA-2016-146563,8/24/2016,CB-12025,Cassandra Brandow,Arlington,Texas,76017,OFF-ST-10001490,Office Supplies,"Hot File 7-Pocket, Floor Stand",411.00
+CA-2017-123666,3/26/2017,SP-20545,Sibella Parks,New York City,New York,10011,OFF-ST-10001522,Office Supplies,"Gould Plastics 18-Pocket Panel Bin, 34w x 5-1/4d x 20-1/2h",165.00
+CA-2017-143308,11/4/2017,RC-19825,Roy Collins,Louisville,Kentucky,40214,OFF-FA-10000621,Office Supplies,"OIC Colored Binder Clips, Assorted Sizes",100.00
+CA-2018-132682,6/8/2018,TH-21235,Tiffany House,Dallas,Texas,75081,OFF-SU-10004231,Office Supplies,Acme Tagit Stainless Steel Antibacterial Scissors,211.00
+CA-2015-156314,12/24/2015,RP-19390,Resi PÃ¶lking,Cleveland,Ohio,44105,FUR-FU-10003096,Furniture,"Master Giant Foot Doorstop, Safety Yellow",384.00
+US-2018-106663,6/9/2018,MO-17800,Meg O'Connel,Chicago,Illinois,60653,FUR-FU-10002759,Furniture,12-1/2 Diameter Round Wall Clock,144.00
+CA-2018-111178,6/15/2018,TD-20995,Tamara Dahlen,Quincy,Illinois,62301,OFF-AR-10001954,Office Supplies,Newell 331,159.00
+CA-2018-130351,12/5/2018,RB-19570,Rob Beeghly,Columbus,Indiana,47201,OFF-AP-10004532,Office Supplies,Kensington 6 Outlet Guardian Standard Surge Protector,30.00
+US-2018-119438,3/18/2018,CD-11980,Carol Darley,Tyler,Texas,75701,OFF-AP-10000804,Office Supplies,Hoover Portapower Portable Vacuum,303.00
+CA-2017-164511,11/19/2017,DJ-13630,Doug Jacobs,New York City,New York,10024,OFF-BI-10003305,Office Supplies,Avery Hanging File Binders,359.00
+US-2018-168116,11/4/2018,GT-14635,Grant Thornton,Burlington,North Carolina,27217,TEC-MA-10004125,Technology,Cubify CubeX 3D Printer Triple Head Print,155.00
+CA-2015-157784,7/5/2015,MC-17845,Michael Chen,Jackson,Mississippi,39212,TEC-AC-10003911,Technology,NETGEAR AC1750 Dual Band GigabitÂ Smart WiFi Router,138.00
+CA-2018-161480,12/25/2018,RA-19285,Ralph Arnett,New York City,New York,10035,FUR-BO-10004015,Furniture,"Bush Andora Bookcase, Maple/Graphite Gray Finish",400.00
+US-2015-117135,6/21/2015,NP-18325,Naresj Patel,Waynesboro,Virginia,22980,FUR-FU-10004071,Furniture,Luxo Professional Magnifying Clamp-On Fluorescent Lamps,447.00
+CA-2016-131534,3/28/2016,AB-10165,Alan Barnes,Los Angeles,California,90036,TEC-AC-10002253,Technology,Imation Bio 8GB USBÂ Flash Drive ImationÂ Corp,51.00
+CA-2016-119291,5/14/2016,JO-15550,Jesus Ocampo,Chester,Pennsylvania,19013,OFF-AR-10003373,Office Supplies,"Boston School Pro Electric Pencil Sharpener, 1670",526.00
+CA-2018-114552,9/2/2018,Dl-13600,Dorris liebe,Cleveland,Ohio,44105,FUR-FU-10002960,Furniture,"Eldon 200 Class Desk Accessories, Burgundy",533.00
+CA-2017-163755,11/4/2017,AS-10285,Alejandro Savely,Seattle,Washington,98103,FUR-FU-10003394,Furniture,Tenex "The Solids" Textured Chair Mats,309.00
+CA-2016-142027,4/9/2016,JK-15370,Jay Kimmel,Long Beach,California,90805,FUR-TA-10002774,Furniture,Laminate Occasional Tables,74.00
+CA-2015-138527,9/12/2015,BN-11470,Brad Norvell,Cary,North Carolina,27511,OFF-PA-10001800,Office Supplies,Xerox 220,250.00
+CA-2015-112158,12/2/2015,DP-13165,David Philippe,New York City,New York,10035,TEC-AC-10003628,Technology,Logitech 910-002974 M325 Wireless Mouse for Web Scrolling,11.00
+CA-2015-113887,4/5/2015,TH-21550,Tracy Hopkins,New York City,New York,10035,OFF-PA-10004071,Office Supplies,"Eaton Premium Continuous-Feed Paper, 25% Cotton, Letter Size, White, 1000 Shts/Box",169.00
+CA-2018-146136,9/3/2018,AP-10915,Arthur Prichep,Palm Coast,Florida,32137,OFF-EN-10001219,Office Supplies,#10- 4 1/8" x 9 1/2" Security-Tint Envelopes,125.00
+US-2018-100048,5/19/2018,RS-19765,Roland Schwarz,Mount Vernon,New York,10550,OFF-AP-10001154,Office Supplies,Bionaire Personal Warm Mist Humidifier/Vaporizer,175.00
+CA-2015-153150,7/1/2015,Dl-13600,Dorris liebe,Seattle,Washington,98105,OFF-BI-10003355,Office Supplies,Cardinal Holdit Business Card Pockets,530.00
+CA-2015-130092,1/11/2015,SV-20365,Seth Vernon,Dover,Delaware,19901,FUR-FU-10000010,Furniture,"DAX Value U-Channel Document Frames, Easel Back",92.00
+CA-2018-108910,9/24/2018,KC-16540,Kelly Collister,Newark,Ohio,43055,FUR-FU-10002253,Furniture,Howard Miller 13" Diameter Pewter Finish Round Wall Clock,457.00
+CA-2015-104472,6/2/2015,CK-12325,Christine Kargatis,Orem,Utah,84057,OFF-BI-10001658,Office Supplies,GBC Standard Therm-A-Bind Covers,153.00
+CA-2017-112942,2/13/2017,RD-19810,Ross DeVincentis,Los Angeles,California,90045,OFF-PA-10004092,Office Supplies,Tops Green Bar Computer Printout Paper,465.00
+CA-2017-142335,12/15/2017,MP-17965,Michael Paige,Detroit,Michigan,48205,FUR-TA-10000198,Furniture,Chromcraft Bull-Nose Wood Oval Conference Tables & Bases,275.00
+CA-2015-117429,10/7/2015,MR-17545,Mathew Reese,Philadelphia,Pennsylvania,19140,FUR-FU-10000222,Furniture,Seth Thomas 16" Steel Case Clock,295.00
+CA-2017-114713,7/7/2017,SC-20695,Steve Chapman,Hialeah,Florida,33012,OFF-SU-10004664,Office Supplies,Acme Softgrip Scissors,265.00
+CA-2018-144113,9/16/2018,JF-15355,Jay Fein,Austin,Texas,78745,OFF-EN-10001141,Office Supplies,"Manila Recycled Extra-Heavyweight Clasp Envelopes, 6"" x 9""",186.00
+US-2017-150861,12/3/2017,EG-13900,Emily Grady,Oceanside,New York,11572,OFF-PA-10001954,Office Supplies,Xerox 1964,401.00
+CA-2018-131954,1/21/2018,DS-13030,Darrin Sayre,Seattle,Washington,98115,OFF-ST-10000736,Office Supplies,Carina Double Wide Media Storage Towers in Natural & Black,172.00
+CA-2015-132500,9/8/2015,GZ-14470,Gary Zandusky,San Francisco,California,94110,TEC-AC-10001383,Technology,Logitech Wireless Touch Keyboard K400,319.00
+CA-2015-112326,1/4/2015,PO-19195,Phillina Ober,Naperville,Illinois,60540,OFF-LA-10003223,Office Supplies,Avery 508,483.00
+US-2017-146710,8/27/2017,SS-20875,Sung Shariari,Dallas,Texas,75220,OFF-SU-10004498,Office Supplies,Martin-Yale Premier Letter Opener,339.00
+CA-2015-124429,5/27/2015,MH-17785,Maya Herman,San Diego,California,92105,FUR-TA-10002607,Furniture,KI Conference Tables,201.00
+CA-2017-150889,3/20/2017,PB-19105,Peter BÃ¼hler,Evanston,Illinois,60201,TEC-PH-10000004,Technology,Belkin iPhone and iPad Lightning Cable,484.00
+CA-2018-126074,10/2/2018,RF-19735,Roland Fjeld,Trenton,Michigan,48183,OFF-BI-10003638,Office Supplies,GBC Durable Plastic Covers,335.00
+CA-2017-110499,4/7/2017,YC-21895,Yoseph Carroll,San Francisco,California,94110,TEC-CO-10002095,Technology,Hewlett Packard 610 Color Digital Copier / Printer,242.00
+CA-2016-135272,12/7/2016,MS-17830,Melanie Seite,Los Angeles,California,90036,FUR-FU-10002759,Furniture,12-1/2 Diameter Round Wall Clock,174.00
+CA-2017-140928,9/18/2017,NB-18655,Nona Balk,Jacksonville,Florida,32216,FUR-TA-10001095,Furniture,Chromcraft Round Conference Tables,133.00
+CA-2015-106803,12/29/2015,DC-13285,Debra Catini,Cottage Grove,Minnesota,55016,OFF-ST-10002444,Office Supplies,Recycled Eldon Regeneration Jumbo File,195.00
+CA-2018-117240,7/23/2018,CP-12340,Christine Phan,New York City,New York,10009,OFF-BI-10000848,Office Supplies,Angle-D Ring Binders,314.00
+CA-2018-133333,9/18/2018,BF-11020,Barry FranzÃ¶sisch,Green Bay,Wisconsin,54302,OFF-PA-10002377,Office Supplies,"Adams Telephone Message Book W/Dividers/Space For Phone Numbers, 5 1/4""X8 1/2"", 200/Messages",513.00
+CA-2016-112319,8/31/2016,AR-10510,Andrew Roberts,Los Angeles,California,90004,OFF-PA-10003441,Office Supplies,Xerox 226,158.00
+CA-2018-126046,11/3/2018,JC-16105,Julie Creighton,Atlanta,Georgia,30318,OFF-LA-10004484,Office Supplies,Avery 476,249.00
+CA-2016-114923,2/8/2016,LH-17020,Lisa Hazard,Columbus,Ohio,43229,TEC-PH-10003931,Technology,JBL Micro Wireless Portable Bluetooth Speaker,258.00
+CA-2015-162775,1/13/2015,CS-12250,Chris Selesnick,Bossier City,Louisiana,71111,OFF-EN-10001990,Office Supplies,Staple envelope,323.00
+CA-2015-106810,5/14/2015,AJ-10795,Anthony Johnson,Saint Petersburg,Florida,33710,FUR-FU-10004306,Furniture,Electrix Halogen Magnifier Lamp,168.00
+CA-2017-157245,5/19/2017,LE-16810,Laurel Elliston,Arlington,Virginia,22204,FUR-CH-10003746,Furniture,Hon 4070 Series Pagoda Round Back Stacking Chairs,392.00
+CA-2018-104220,1/30/2018,BV-11245,Benjamin Venier,Des Moines,Iowa,50315,OFF-BI-10001036,Office Supplies,Cardinal EasyOpen D-Ring Binders,84.00
+CA-2015-165974,6/29/2015,DL-12865,Dan Lawera,Cincinnati,Ohio,45231,OFF-AR-10003405,Office Supplies,"Dixon My First Ticonderoga Pencil, #2",405.00
+CA-2016-144267,8/21/2016,NZ-18565,Nick Zandusky,San Francisco,California,94110,FUR-CH-10002335,Furniture,Hon GuestStacker Chair,414.00
+US-2016-157014,10/3/2016,BM-11785,Bryan Mills,Columbus,Ohio,43229,OFF-BI-10001098,Office Supplies,Acco D-Ring Binder w/DublLock,474.00
+CA-2016-154921,5/23/2016,EA-14035,Erin Ashbrook,Columbia,South Carolina,29203,OFF-EN-10000056,Office Supplies,Cameo Buff Policy Envelopes,423.00
+CA-2018-129567,3/17/2018,CL-12565,Clay Ludtke,Lancaster,California,93534,OFF-BI-10000014,Office Supplies,Heavy-Duty E-Z-D Binders,151.00
+CA-2016-154620,12/12/2016,LT-17110,Liz Thompson,Lancaster,California,93534,FUR-CH-10004675,Furniture,"Lifetime Advantage Folding Chairs, 4/Carton",345.00
+CA-2016-115938,6/26/2016,SA-20830,Sue Ann Reed,Richmond,Virginia,23223,OFF-BI-10001543,Office Supplies,GBC VeloBinder Manual Binding System,115.00
+CA-2017-105256,5/20/2017,JK-15730,Joe Kamberova,Asheville,North Carolina,28806,TEC-PH-10001530,Technology,Cisco Unified IP Phone 7945G VoIP phone,40.00
+CA-2015-156433,9/20/2015,ES-14020,Erica Smith,San Francisco,California,94110,OFF-LA-10001569,Office Supplies,Avery 499,546.00
+CA-2018-151428,9/21/2018,RH-19495,Rick Hansen,Rochester,Minnesota,55901,OFF-BI-10000546,Office Supplies,Avery Durable Binders,210.00
+CA-2016-124653,12/24/2016,DB-13120,David Bremer,Rochester,New York,14609,OFF-PA-10000176,Office Supplies,Xerox 1887,191.00
+CA-2016-101910,11/27/2016,CD-11920,Carlos Daly,Lake Elsinore,California,92530,FUR-CH-10002647,Furniture,"Situations Contoured Folding Chairs, 4/Set",345.00
+CA-2018-105809,2/20/2018,HW-14935,Helen Wasserman,San Diego,California,92105,FUR-FU-10004090,Furniture,Executive Impressions 14" Contract Wall Clock,191.00
+CA-2017-136133,8/18/2017,HW-14935,Helen Wasserman,New York City,New York,10024,OFF-AP-10000576,Office Supplies,Belkin 7 Outlet SurgeMaster II,258.00
+CA-2017-115504,3/12/2017,MC-18130,Mike Caudle,Monroe,Louisiana,71203,OFF-PA-10003953,Office Supplies,Xerox 218,450.00
+CA-2018-135783,4/22/2018,GM-14440,Gary McGarr,San Francisco,California,94122,FUR-FU-10000794,Furniture,"Eldon Stackable Tray, Side-Load, Legal, Smoke",293.00
+CA-2015-134313,11/1/2015,RA-19915,Russell Applegate,Denver,Colorado,80219,OFF-AR-10001897,Office Supplies,Model L Table or Wall-Mount Pencil Sharpener,315.00
+CA-2016-140921,2/3/2016,AA-10375,Allen Armold,Omaha,Nebraska,68104,FUR-FU-10003347,Furniture,Coloredge Poster Frame,232.00
+CA-2015-151995,10/13/2015,ZC-21910,Zuschuss Carroll,Edmonds,Washington,98026,OFF-AR-10003190,Office Supplies,Newell 32,389.00
+CA-2018-143686,5/14/2018,PJ-19015,Pauline Johnson,Santa Ana,California,92704,FUR-FU-10000794,Furniture,"Eldon Stackable Tray, Side-Load, Legal, Smoke",44.00
+CA-2016-106565,3/20/2016,BW-11110,Bart Watters,Milwaukee,Wisconsin,53209,OFF-PA-10000061,Office Supplies,Xerox 205,293.00
+CA-2017-149370,9/15/2017,DB-13210,Dean Braden,Philadelphia,Pennsylvania,19140,OFF-PA-10003651,Office Supplies,Xerox 1968,231.00
+CA-2015-140858,6/28/2015,CA-12775,Cynthia Arntzen,Philadelphia,Pennsylvania,19140,OFF-PA-10000304,Office Supplies,Xerox 1995,435.00
+CA-2018-101434,6/20/2018,TR-21325,Toby Ritter,Belleville,New Jersey,7109,TEC-AC-10002402,Technology,Razer Kraken PRO Over Ear PC and Music Headset,118.00
+US-2015-102071,5/9/2015,PG-18820,Patrick Gardner,San Francisco,California,94110,TEC-AC-10003441,Technology,Kingston Digital DataTraveler 32GB USB 2.0,30.00
+CA-2018-126956,8/21/2018,GT-14710,Greg Tran,Lakeville,Minnesota,55044,OFF-FA-10002280,Office Supplies,Advantus Plastic Paper Clips,359.00
+CA-2018-129462,6/16/2018,JE-15745,Joel Eaton,Florence,Kentucky,41042,FUR-CH-10000665,Furniture,"Global Airflow Leather Mesh Back Chair, Black",532.00
+CA-2017-165316,7/23/2017,JB-15400,Jennifer Braxton,Tampa,Florida,33614,OFF-AR-10002956,Office Supplies,Boston 16801 Nautilus Battery Pencil Sharpener,202.00
+US-2015-115987,9/8/2015,LH-17020,Lisa Hazard,Tyler,Texas,75701,OFF-BI-10001071,Office Supplies,GBC ProClick Punch Binding System,298.00
+US-2018-156083,11/4/2018,JL-15175,James Lanier,Columbia,Tennessee,38401,OFF-PA-10001560,Office Supplies,"Adams Telephone Message Books, 5 1/4â€ x 11â€",206.00
+US-2017-137547,3/7/2017,EB-13705,Ed Braxton,Fort Worth,Texas,76106,TEC-PH-10002365,Technology,Belkin Grip Candy Sheer Case / Cover for iPhone 5 and 5S,249.00
+CA-2016-100454,11/20/2016,BM-11650,Brian Moss,New York City,New York,10035,OFF-AR-10004648,Office Supplies,Boston 19500 Mighty Mite Electric Pencil Sharpener,87.00
+CA-2017-161669,11/7/2017,EM-14095,Eudokia Martin,Los Angeles,California,90036,OFF-BI-10001294,Office Supplies,Fellowes Binding Cases,456.00
+CA-2016-114300,10/13/2016,AF-10885,Art Foster,Louisville,Kentucky,40214,TEC-PH-10001552,Technology,I Need's 3d Hello Kitty Hybrid Silicone Case Cover for HTC One X 4g with 3d Hello Kitty Stylus Pen Green/pink,365.00
+CA-2018-107503,1/1/2018,GA-14725,Guy Armstrong,Lorain,Ohio,44052,FUR-FU-10003878,Furniture,"Linden 10"" Round Wall Clock, Black",173.00
+CA-2015-107755,2/7/2015,CK-12760,Cyma Kinney,Linden,New Jersey,7036,TEC-AC-10000710,Technology,Maxell DVD-RAM Discs,137.00
+CA-2017-152534,6/20/2017,DP-13105,Dave Poirier,Salinas,California,93905,OFF-AR-10002335,Office Supplies,DIXON Oriole Pencils,253.00
+CA-2017-113747,5/28/2017,VD-21670,Valerie Dominguez,Jackson,Mississippi,39212,OFF-AR-10003373,Office Supplies,"Boston School Pro Electric Pencil Sharpener, 1670",492.00
+CA-2017-123274,2/19/2017,GT-14710,Greg Tran,New York City,New York,10035,FUR-FU-10004090,Furniture,Executive Impressions 14" Contract Wall Clock,362.00
+CA-2015-125612,8/3/2015,BK-11260,Berenike Kampe,New York City,New York,10035,OFF-PA-10001019,Office Supplies,Xerox 1884,132.00
+CA-2018-161984,4/10/2018,SJ-20125,Sanjit Jacobs,New Brunswick,New Jersey,8901,OFF-PA-10004569,Office Supplies,"Wirebound Message Books, Two 4 1/4"" x 5"" Forms per Page",457.00
+CA-2015-133851,6/9/2015,CM-12445,Chuck Magee,San Francisco,California,94122,OFF-SU-10001225,Office Supplies,Staple remover,362.00
+CA-2017-134474,1/5/2017,AJ-10795,Anthony Johnson,Jacksonville,Florida,32216,TEC-AC-10001714,Technology,LogitechÂ MX Performance Wireless Mouse,442.00
+CA-2015-149020,1/10/2015,AJ-10780,Anthony Jacobs,Springfield,Virginia,22153,OFF-LA-10004272,Office Supplies,Avery 482,414.00
+CA-2017-134362,9/29/2017,LS-16945,Linda Southworth,Philadelphia,Pennsylvania,19140,OFF-LA-10004853,Office Supplies,Avery 483,153.00
+CA-2015-136742,4/6/2015,GP-14740,Guy Phonely,Lancaster,Pennsylvania,17602,OFF-BI-10003719,Office Supplies,Large Capacity Hanging Post Binders,118.00
+CA-2017-158099,9/3/2017,PK-18910,Paul Knutson,Philadelphia,Pennsylvania,19143,OFF-BI-10000545,Office Supplies,GBC Ibimaster 500 Manual ProClick Binding System,360.00
+CA-2016-131128,10/19/2016,TB-21520,Tracy Blumstein,Concord,New Hampshire,3301,OFF-PA-10003591,Office Supplies,Southworth 100% Cotton The Best Paper,52.00
+CA-2015-148488,12/10/2015,SM-20005,Sally Matthias,New York City,New York,10009,OFF-PA-10004470,Office Supplies,"Adams Write n' Stick Phone Message Book, 11"" X 5 1/4"", 200 Messages",193.00
+CA-2018-114636,8/25/2018,GA-14725,Guy Armstrong,Charlotte,North Carolina,28205,OFF-PA-10001790,Office Supplies,Xerox 1910,542.00
+CA-2017-116736,1/17/2017,CC-12430,Chuck Clark,Concord,New Hampshire,3301,FUR-FU-10004017,Furniture,"Tenex Contemporary Contur Chairmats for Low and Medium Pile Carpet, Computer, 39"" x 49""",503.00
+US-2015-158638,9/17/2015,AG-10765,Anthony Garverick,Philadelphia,Pennsylvania,19120,OFF-BI-10003712,Office Supplies,"Acco Pressboard Covers with Storage Hooks, 14 7/8"" x 11"", Light Blue",36.00
+CA-2018-111689,11/30/2018,HP-14815,Harold Pawlan,New York City,New York,10024,OFF-BI-10003984,Office Supplies,Lock-Up Easel 'Spel-Binder',313.00
+CA-2016-129098,10/9/2016,DK-13090,Dave Kipp,Springfield,Virginia,22153,OFF-ST-10001321,Office Supplies,"Decoflex Hanging Personal Folder File, Blue",530.00
+US-2018-123463,12/23/2018,GZ-14470,Gary Zandusky,San Francisco,California,94109,OFF-AR-10001118,Office Supplies,"Binney & Smith Crayola Metallic Crayons, 16-Color Pack",406.00
+CA-2017-165148,10/22/2017,PM-19135,Peter McVee,Detroit,Michigan,48227,FUR-FU-10000732,Furniture,Eldon 200 Class Desk Accessories,54.00
+CA-2015-134061,4/29/2015,LL-16840,Lauren Leatherbury,Rochester,New York,14609,FUR-FU-10001424,Furniture,Dax Clear Box Frame,503.00
+CA-2016-143602,4/25/2016,JS-15595,Jill Stevenson,Los Angeles,California,90045,OFF-BI-10002071,Office Supplies,Fellowes Black Plastic Comb Bindings,371.00
+CA-2018-115364,6/26/2018,OT-18730,Olvera Toch,San Diego,California,92105,OFF-ST-10002486,Office Supplies,Eldon Shelf Savers Cubes and Bins,357.00
+CA-2018-150707,10/14/2018,EL-13735,Ed Ludwig,Columbia,Maryland,21044,OFF-BI-10001078,Office Supplies,"Acco PRESSTEX Data Binder with Storage Hooks, Dark Blue, 14 7/8"" X 11""",348.00
+CA-2015-104976,12/9/2015,CK-12760,Cyma Kinney,San Francisco,California,94122,OFF-PA-10003845,Office Supplies,Xerox 1987,359.00
+CA-2018-132934,6/20/2018,JE-15475,Jeremy Ellison,New Rochelle,New York,10801,TEC-AC-10000927,Technology,Anker Ultrathin Bluetooth Wireless Keyboard Aluminum Cover with Stand,4.00
+CA-2018-133256,6/26/2018,TH-21550,Tracy Hopkins,Detroit,Michigan,48227,OFF-PA-10001622,Office Supplies,"Ampad Poly Cover Wirebound Steno Book, 6"" x 9"" Assorted Colors, Gregg Ruled",362.00
+CA-2017-105494,11/10/2017,PC-18745,Pamela Coakley,San Francisco,California,94122,OFF-ST-10002205,Office Supplies,File Shuttle I and Handi-File,505.00
+CA-2017-140634,10/3/2017,HL-15040,Hunter Lopez,Houston,Texas,77095,OFF-EN-10001099,Office Supplies,Staple envelope,107.00
+CA-2015-144407,9/9/2015,MS-17365,Maribeth Schnelling,Detroit,Michigan,48227,OFF-LA-10003923,Office Supplies,Alphabetical Labels for Top Tab Filing,113.00
+CA-2018-160983,10/29/2018,GB-14530,George Bell,Auburn,New York,13021,OFF-PA-10002250,Office Supplies,Things To Do Today Pad,50.00
+US-2017-114622,4/10/2017,JR-16210,Justin Ritter,Springfield,Ohio,45503,OFF-BI-10004716,Office Supplies,Wilson Jones Hanging Recycled Pressboard Data Binders,183.00
+CA-2018-150959,11/11/2018,TD-20995,Tamara Dahlen,Garland,Texas,75043,OFF-LA-10001045,Office Supplies,Permanent Self-Adhesive File Folder Labels for Typewriters by Universal,228.00
+CA-2018-132353,9/15/2018,DB-13060,Dave Brooks,Chicago,Illinois,60653,TEC-PH-10004536,Technology,Avaya 5420 Digital phone,79.00
+CA-2017-130477,4/8/2017,LC-17140,Logan Currie,Los Angeles,California,90032,OFF-PA-10002947,Office Supplies,Xerox 1923,152.00
+CA-2018-143259,12/30/2018,PO-18865,Patrick O'Donnell,New York City,New York,10009,FUR-BO-10003441,Furniture,"Bush Westfield Collection Bookcases, Fully Assembled",31.00
+CA-2018-137596,9/2/2018,BE-11335,Bill Eplett,Jackson,Michigan,49201,TEC-PH-10001494,Technology,Polycom CX600 IP Phone VoIP phone,130.00
+CA-2016-133627,5/31/2016,SC-20050,Sample Company A,Norwich,Connecticut,6360,FUR-FU-10001935,Furniture,3M Hangers With Command Adhesive,323.00
+CA-2018-102519,11/27/2018,BM-11650,Brian Moss,Milwaukee,Wisconsin,53209,FUR-FU-10004091,Furniture,Howard Miller 13" Diameter Goldtone Round Wall Clock,473.00
+US-2015-141215,6/15/2015,KL-16555,Kelly Lampkin,San Antonio,Texas,78207,FUR-TA-10001520,Furniture,"Lesro Sheffield Collection Coffee Table, End Table, Center Table, Corner Table",420.00
+CA-2017-165218,3/5/2017,RW-19630,Rob Williams,Dallas,Texas,75220,OFF-EN-10000056,Office Supplies,Cameo Buff Policy Envelopes,219.00
+CA-2015-138296,12/5/2015,RC-19825,Roy Collins,Alexandria,Virginia,22304,OFF-ST-10002444,Office Supplies,Recycled Eldon Regeneration Jumbo File,413.00
+CA-2016-111164,4/11/2016,SE-20110,Sanjit Engle,New York City,New York,10009,TEC-AC-10002473,Technology,Maxell 4.7GB DVD-R,126.00
+CA-2017-149797,9/15/2017,AH-10075,Adam Hart,New York City,New York,10011,OFF-BI-10003650,Office Supplies,GBC DocuBind 300 Electric Binding Machine,261.00
+CA-2015-132962,9/13/2015,JM-15535,Jessica Myrick,Philadelphia,Pennsylvania,19143,OFF-PA-10003543,Office Supplies,Xerox 1985,184.00
+CA-2016-115091,10/5/2016,JJ-15760,Joel Jenkins,Springfield,Virginia,22153,OFF-AR-10000658,Office Supplies,Newell 324,366.00
+CA-2018-144932,4/14/2018,AB-10165,Alan Barnes,Toledo,Ohio,43615,OFF-AR-10003560,Office Supplies,Zebra Zazzle Fluorescent Highlighters,370.00
+CA-2018-114216,9/2/2018,RK-19300,Ralph Kennedy,Philadelphia,Pennsylvania,19140,OFF-PA-10002195,Office Supplies,"RSVP Cards & Envelopes, Blank White, 8-1/2"" X 11"", 24 Cards/25 Envelopes/Set",470.00
+CA-2017-140081,6/20/2017,CG-12040,Catherine Glotzbach,Philadelphia,Pennsylvania,19120,OFF-PA-10001745,Office Supplies,"Wirebound Message Books, 2 7/8"" x 5"", 3 Forms per Page",231.00
+US-2018-111745,11/5/2018,RA-19885,Ruben Ausman,Farmington,New Mexico,87401,TEC-AC-10003911,Technology,NETGEAR AC1750 Dual Band GigabitÂ Smart WiFi Router,336.00
+CA-2016-148250,12/13/2016,RP-19270,Rachel Payne,Riverside,California,92503,OFF-PA-10000289,Office Supplies,Xerox 213,534.00
+CA-2017-105760,6/19/2017,KC-16255,Karen Carlisle,San Francisco,California,94110,OFF-PA-10000350,Office Supplies,"Message Book, Standard Line ""While You Were Out"", 5 1/2"" X 4"", 200 Sets/Book",197.00
+CA-2017-142958,12/13/2017,RW-19630,Rob Williams,Torrance,California,90503,OFF-BI-10001759,Office Supplies,"Acco Pressboard Covers with Storage Hooks, 14 7/8"" x 11"", Dark Blue",402.00
+CA-2016-120880,5/29/2016,JL-15850,John Lucas,Seattle,Washington,98105,OFF-PA-10004101,Office Supplies,Xerox 1894,422.00
+US-2016-140200,7/26/2016,CA-12775,Cynthia Arntzen,Mesa,Arizona,85204,FUR-TA-10002356,Furniture,Bevis Boat-Shaped Conference Table,318.00
+US-2018-110576,11/28/2018,RB-19795,Ross Baird,Philadelphia,Pennsylvania,19120,FUR-FU-10003601,Furniture,"Deflect-o RollaMat Studded, Beveled Mat for Medium Pile Carpeting",547.00
+CA-2018-131156,4/3/2018,KH-16360,Katherine Hughes,Philadelphia,Pennsylvania,19143,FUR-FU-10001940,Furniture,Staple-based wall hangings,399.00
+CA-2018-136539,12/28/2018,GH-14665,Greg Hansen,Round Rock,Texas,78664,OFF-AR-10001958,Office Supplies,Stanley Bostitch Contemporary Electric Pencil Sharpeners,421.00
+CA-2018-119305,11/30/2018,SW-20275,Scott Williamson,Jackson,Mississippi,39212,OFF-ST-10000604,Office Supplies,Home/Office Personal File Carts,36.00
+CA-2018-102414,5/15/2018,JA-15970,Joseph Airdo,Phoenix,Arizona,85023,TEC-PH-10002923,Technology,"Logitech B530 USBÂ HeadsetÂ -Â headsetÂ - Full size, Binaural",139.00
+CA-2016-112571,9/22/2016,DL-12925,Daniel Lacy,Oceanside,California,92054,FUR-FU-10004188,Furniture,Luxo Professional Combination Clamp-On Lamps,549.00
+CA-2018-152142,11/14/2018,LW-16990,Lindsay Williams,San Francisco,California,94110,FUR-CH-10002965,Furniture,"Global Leather Highback Executive Chair with Pneumatic Height Adjustment, Black",396.00
+CA-2016-160059,11/27/2016,TB-21190,Thomas Brumley,Fayetteville,Arkansas,72701,OFF-BI-10000145,Office Supplies,Zipper Ring Binder Pockets,107.00
+CA-2017-120859,9/1/2017,CV-12805,Cynthia Voltz,San Francisco,California,94110,OFF-EN-10001335,Office Supplies,"White Business Envelopes with Contemporary Seam, Recycled White Business Envelopes",468.00
+CA-2015-127488,9/22/2015,MS-17365,Maribeth Schnelling,Boca Raton,Florida,33433,OFF-LA-10001613,Office Supplies,Avery File Folder Labels,223.00
+CA-2018-135279,4/9/2018,BS-11800,Bryan Spruell,New York City,New York,10011,OFF-LA-10004055,Office Supplies,Color-Coded Legal Exhibit Labels,79.00
+CA-2015-115791,1/16/2015,DL-13315,Delfina Latchford,Philadelphia,Pennsylvania,19134,FUR-FU-10001095,Furniture,DAX Black Cherry Wood-Tone Poster Frame,477.00
+US-2018-103247,10/5/2018,PO-19195,Phillina Ober,New York City,New York,10011,TEC-PH-10003555,Technology,Motorola HK250 Universal Bluetooth Headset,252.00
+US-2018-100209,7/9/2018,TD-20995,Tamara Dahlen,Portland,Oregon,97206,OFF-BI-10002012,Office Supplies,Wilson Jones Easy Flow II Sheet Lifters,96.00
+CA-2018-159366,1/7/2018,BW-11110,Bart Watters,Detroit,Michigan,48205,TEC-MA-10000822,Technology,Lexmark MX611dhe Monochrome Laser Printer,119.00
+CA-2017-145499,5/30/2017,RW-19690,Robert Waldorf,Wilmington,North Carolina,28403,OFF-BI-10000848,Office Supplies,Angle-D Ring Binders,329.00
+CA-2016-157035,12/9/2016,KB-16600,Ken Brennan,Columbus,Indiana,47201,OFF-PA-10004156,Office Supplies,Xerox 188,420.00
+CA-2017-144939,10/3/2017,EB-13870,Emily Burns,New York City,New York,10035,FUR-CH-10003199,Furniture,Office Star - Contemporary Task Swivel Chair,438.00
+CA-2015-163419,11/11/2015,TZ-21580,Tracy Zic,Louisville,Colorado,80027,OFF-AR-10000034,Office Supplies,"BIC Brite Liner Grip Highlighters, Assorted, 5/Pack",529.00
+CA-2018-100314,9/29/2018,AS-10630,Ann Steele,Pasadena,Texas,77506,OFF-LA-10001569,Office Supplies,Avery 499,207.00
+CA-2016-146829,3/10/2016,TS-21340,Toby Swindell,Houston,Texas,77041,OFF-BI-10004022,Office Supplies,Acco Suede Grain Vinyl Round Ring Binder,268.00
+CA-2018-167899,5/21/2018,JG-15805,John Grady,Auburn,New York,13021,FUR-FU-10004071,Furniture,Luxo Professional Magnifying Clamp-On Fluorescent Lamps,440.00
+CA-2016-153549,3/29/2016,SL-20155,Sara Luxemburg,Jacksonville,Florida,32216,FUR-CH-10004086,Furniture,Hon 4070 Series Pagoda Armless Upholstered Stacking Chairs,248.00
+CA-2017-110023,9/9/2017,TS-21610,Troy Staebel,New York City,New York,10024,OFF-BI-10001036,Office Supplies,Cardinal EasyOpen D-Ring Binders,355.00
+CA-2017-105585,8/26/2017,RF-19735,Roland Fjeld,San Jose,California,95123,OFF-FA-10002983,Office Supplies,Advantus SlideClip Paper Clips,126.00
+CA-2015-117639,5/21/2015,MW-18235,Mitch Willingham,Virginia Beach,Virginia,23464,OFF-BI-10003925,Office Supplies,Fellowes PB300 Plastic Comb Binding Machine,459.00
+CA-2016-162537,10/28/2016,RD-16253,Rob Dowd,Henderson,Kentucky,42420,OFF-EN-10003862,Office Supplies,Laser & Ink Jet Business Envelopes,90.00
